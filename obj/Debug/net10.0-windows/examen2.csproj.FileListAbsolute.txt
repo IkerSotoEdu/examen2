@@ -1,0 +1,18 @@
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen2\obj\Debug\net10.0-windows\examen2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen2\obj\Debug\net10.0-windows\examen2.AssemblyInfoInputs.cache
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen2\obj\Debug\net10.0-windows\examen2.AssemblyInfo.cs
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen2\obj\Debug\net10.0-windows\examen2.csproj.CoreCompileInputs.cache
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen2\bin\Debug\net10.0-windows\examen2.exe
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen2\bin\Debug\net10.0-windows\examen2.deps.json
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen2\bin\Debug\net10.0-windows\examen2.runtimeconfig.json
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen2\bin\Debug\net10.0-windows\examen2.dll
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen2\bin\Debug\net10.0-windows\examen2.pdb
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen2\obj\Debug\net10.0-windows\examen2.dll
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen2\obj\Debug\net10.0-windows\refint\examen2.dll
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen2\obj\Debug\net10.0-windows\examen2.pdb
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen2\obj\Debug\net10.0-windows\examen2.genruntimeconfig.cache
+c:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen2\obj\Debug\net10.0-windows\ref\examen2.dll
+C:\Users\korao\AppData\Local\Temp\examen2-validation\examen2.deps.json
+C:\Users\korao\AppData\Local\Temp\examen2-validation\examen2.runtimeconfig.json
+C:\Users\korao\AppData\Local\Temp\examen2-validation\examen2.dll
+C:\Users\korao\AppData\Local\Temp\examen2-validation\examen2.pdb
