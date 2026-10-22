@@ -50,9 +50,9 @@ public sealed class Interfaz : Form
 
     private readonly Taller[] talleres = new Taller[]
     {
-        new Taller { Id = 1, Nombre = "Programación C#", CupoMaximo = 20, LugaresOcupados = 0 },
-        new Taller { Id = 2, Nombre = "Diseño digital", CupoMaximo = 15, LugaresOcupados = 0 },
-        new Taller { Id = 3, Nombre = "Robótica", CupoMaximo = 10, LugaresOcupados = 0 }
+        new Taller { Id = 1, Nombre = "Programación C#", CupoMaximo = 5, LugaresOcupados = 0 },
+        new Taller { Id = 2, Nombre = "Diseño Web", CupoMaximo = 4, LugaresOcupados = 0 },
+        new Taller { Id = 3, Nombre = "Redes Básicas", CupoMaximo = 6, LugaresOcupados = 0 }
     };
 
     public IReadOnlyList<Taller> Talleres => talleres;

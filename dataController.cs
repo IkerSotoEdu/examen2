@@ -102,7 +102,6 @@ public class InterfazController
     {
         interfaz.btnCancelar.Click += (sender, e) =>
         {
-            MessageBox.Show("Estas seguro que quieres cancelar la reserva?", "Confirmación", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (MessageBox.Show("Estas seguro que quieres cancelar la reserva?", "Confirmación", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
                 if (interfaz.dgvReservas.SelectedRows.Count > 0)
